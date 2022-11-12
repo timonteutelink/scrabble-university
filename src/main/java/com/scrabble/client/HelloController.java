@@ -1,4 +1,4 @@
-package com.example.fxproject;
+package com.scrabble.client;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
